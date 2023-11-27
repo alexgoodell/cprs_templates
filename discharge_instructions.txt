@@ -1,0 +1,86 @@
+=============================================================================
+                           DISCHARGE INSTRUCTIONS
+=============================================================================
+
+
+                     MESSAGE FROM YOUR PHYSICIAN TEAM
+-----------------------------------------------------------------------------
+
+
+Dear |PATIENT NAME|,
+
+It was a pleasure taking care of you during this hospitalization. You were
+admitted for @@@
+
+Again, it was a pleasure taking care of you during this hospitalization. We
+wish you the best in your health!
+
+Sincerely, 
+Your Palo Alto VA Medical Team 
+
+                    INFORMATION ABOUT YOUR HOSPITALIZATION
+-----------------------------------------------------------------------------
+
+Date of Admission: |VISIT DATE|
+
+Date of Discharge: |TODAY'S DATE|
+
+Type of Discharge:  
+
+Discharge Diagnosis/Problems Treated This Admission: 
+    - 
+ 
+Other Diagnosis: 
+     - 
+
+                              YOUR MEDICATIONS
+-----------------------------------------------------------------------------
+Below is an updated list of all your medications to be taken on discharge.
+This includes any new medications as well as any medication changes. It is
+important to have an updated and accurate list of your medications at all
+times. If this list does not seem clear or accurate, discuss with your
+physician or pharmacist as soon as possible.
+
+
+If you have additional medication questions, please call the VA Palo Alto
+Pharmacy Help-Line at 1-800-311-2511
+
+|ACTIVE MEDICATIONS|
+
+
+                            DISCHARGE INFORMATION
+-----------------------------------------------------------------------------
+
+DIET INSTRUCTIONS:
+  
+
+RESTRICTIONS:
+  
+
+WARNING SIGNS/DANGER SIGNALS:
+If you experience any of the following, call the Telephone Care Program at
+1-800-455-0057.
+- 
+
+
+                              FOLLOW UP CARE PLANS
+-----------------------------------------------------------------------------
+
+SCHEDULED APPOINTMENTS:
+The following appointments have been scheduled for you. If you do not hear
+within 3 days about your appointments, please contact: Madie Plater, Discharge
+Planner: 650-493-5000 ext: 69238
+
+|FUTURE APPOINTMENTS, NEXT 6 IN 6 MO|
+
+FOLLOW UP AT GENERAL MEDICAL CLINIC: 
+The following will be addressed at your follow-up appointment in GMC clinic,
+to be scheduled during your discharge.
+ 
+Other issues to be reviewed at follow-up appointment: 
+- 
+   
+ADVANCE DIRECTIVE:
+An Advance Directive is @@@ on file.
+
+

@@ -1,0 +1,54 @@
+                    
+                        MEDICINE DISCHARGE SUMMARY
+                        ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Admission Date: |VISIT DATE|
+Discharge Date: |TODAY'S DATE|
+Discharged to: 
+
+DISCHARGE RESTRICTIONS/DISPOSITION:
+=============================================================================
+
+Activity/Employment: No restrictions.
+Diet: 
+
+Admission Diagnosis: 
+
+Discharge Diagnosis: 
+
+
+HOSPITAL COURSE BY PROBLEM
+=============================================================================
+
+
+
+STUDIES/PROCEDURES
+=============================================================================
+
+
+
+|IMAGING ALL LAST 3M|
+
+
+Condition at Discharge:  
+
+MEDICATION INFORMATION
+=============================================================================
+
+|OUTPATIENT MEDS|
+
+
+DISCHARGE FOLLOW-UP PLAN
+=============================================================================
+
+Lab tests to be reviewed at GMC follow-up appointment:
+  
+
+Diagnostic Studies to be reviewed at follow-up appointment: 
+ 
+
+Other issues to be addressed at GMS follow-up appointment:
+ 
+
+Issues to be addressed by specialty clinic:
+  

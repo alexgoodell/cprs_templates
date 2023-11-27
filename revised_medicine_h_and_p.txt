@@ -1,0 +1,133 @@
+-                        Internal Medicine H&P
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~
+Name: |PATIENT NAME| Age: |PATIENT AGE|  SSN: |PATIENT SSN| 
+Date: |TODAY'S DATE|  SC: |PATIENT TOTAL DISABILITY %| 
+Admission date: |VISIT DATE| PCP: Dr. |PRIMARY CARE PROVIDER|
+
+HPI
+=============================================================================
+|PATIENT AGE| yo, |PATIENT SEX| with history of
+
+
+PMH
+=============================================================================
+|PROBLEM LIST-SHORTENED ACTIVE|
+
+SOCIAL HISTORY
+=============================================================================
+- Etoh: 
+- Tobacco:
+- Illicit drug use:
+- Lives situation
+
+HOME MEDICATIONS
+=============================================================================
+|ACTIVE OP MEDS W/SIG|
+
+ALLERGIES
+=============================================================================
+|ALLERGIES/ADR|
+
+ROS 
+=============================================================================
+ROS otherwise unremarkable. 
+
+PHYSICAL EXAM
+=============================================================================
+|VITAL SIGNS 3 SETS|
+
+- Gen: NAD.
+- HENT: MMM. PERRL, oropharynx clear w/ no exudates.
+- Neck: No cervical or supraclavicular LAD.
+- Lungs: CTAB. Non-labored breathing.
+- CV: RRR, nl S1 and S2, no m/g/r. No JVD.
+- Abd: Soft, NT/ND. No rebound or guarding. No HSM.
+- Ext: No LE edema. Warm, well perfused.
+- Skin: No rashes or plaques.
+- Neuro: Alert. Oriented x3. Normal speech. Responds to questions appropriately. 
+  CN intact. LE/UE strength 5/5 bilaterally.
+
+LABS
+=============================================================================
+
+        |CBC-HGB|          |BMP-NA| |BMP-K| |BMP-CL|           
+|CBC-WBC| >------< |CBC-PLATELETS|------------------------< |BMP-GLU| 
+        |CBC-HCT|          |BMP-K| |BMP-CO2| |BMP-CR|     
+
+-----------------------------------------------------------------------------
+|CBC4 1WK|
+|CHEM6 1WK|
+|CALCIUM|
+|MAGNESIUM|
+|PO4|
+|LFT1WK|
+|INR(LAST 3)|
+|TROPONIN 1WK|
+|LACTATE LAST 3|
+|A1CX4|
+|TSH LAST 3|
+|URINALYSIS|
+|UA1|
+
+
+IMAGING/OTHER STUDIES
+=============================================================================
+|IMAGING LAST 2 IN 3M|
+
+
+ASSESSMENT & PLAN
+=============================================================================
+
+Last A1c was 
+|A1CX4|
+
+
+# DVT PPX
+- [ ] -
+ 
+# Dispo
+- [ ] PT -
+- [ ] OT -
+- [ ] Speech - 
+- [ ] Diet - 
+- Anticipated Discharge Barriers: 
+ 
+# Code Status
+- @@@
+- Per patient or other (Specify):
+- Patient-identified surrogate medical decision maker:
+- Name/relation: 
+- Phone: 
+
+Patient was seen/discussed in detail with Dr. @@@, Attending Physician, who 
+agrees with treatment and plan of care.
+
+
+-----------------------------------------------------------------------------
+                        ADDITIONAL INFORMATION
+-----------------------------------------------------------------------------
+
+- Patient goals for admission:
+
+- Delirium Risk Review (required for patients age 65+):
+   - [ ] Patient at risk for delirium (e.g. cognitive impairment/dementia, hx
+     of delirium, vision or hearing impairment, elevated BUN, severe illness).
+     See plan for details. Consider delirium precautions.
+   - [ ] No issues identified
+   - [ ] Patient is < 65 years old 
+   - [ ] Current problem of delirium = (Acute onset, fluctuating course AND
+     inattention) + (disorganized thinking OR altered level of consciousness).
+     Consider delirium precautions.
+   - [ ] Patient at risk for delirium (e.g. cognitive impairment/dementia, hx
+     of delirium, vision or hearing impairment, elevated BUN, severe illness)
+     - see plan for details. Consider delirium;
+
+
+|FUTURE APPOINTMENTS, NEXT 6 IN 6 MO|
+
+-----------------------------------------------------------------------------
+                      MEDICINE RECONCILIATION
+-----------------------------------------------------------------------------
+
+|MEDICATION RECONCILIATION|
+

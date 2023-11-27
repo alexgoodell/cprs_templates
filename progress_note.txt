@@ -1,0 +1,80 @@
+
+                    Internal Medicine Progress Note
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Name: |PATIENT NAME| Age: |PATIENT AGE|  SSN: |PATIENT SSN| 
+Date: |TODAY'S DATE|  SC: |PATIENT TOTAL DISABILITY %| 
+Admission date: |VISIT DATE| PCP: Dr. |PRIMARY CARE PROVIDER|
+
+
+=========================================================================
+ID/CC:
+
+=========================================================================
+EVENTS:
+
+=========================================================================
+SUBJECTIVE:
+
+=========================================================================
+MEDICATIONS:
+|IV MEDS|
+|UNIT DOSE MEDS ALPHA|
+
+=========================================================================
+I&OS:
+
+=========================================================================
+PHYSICAL EXAM:
+
+|VITAL SIGNS 3 SETS|
+
+Gen: NAD.
+HENT: MMM. PERRL, oropharynx clear w/ no exudates.
+Neck: No cervical or supraclavicular LAD.
+Lungs: CTAB. Non-labored breathing.
+CV: RRR, nl S1 and S2, no m/g/r. No JVD.
+Abd: Soft, NT/ND. No rebound or guarding. No HSM.
+Ext: No LE edema. Warm, well perfused.
+Skin: No rashes or plaques.
+Neuro: Alert. Oriented x3. Normal speech. Responds to questions appropriately. 
+CN intact. LE/UE strength 5/5 bilaterally.
+
+=========================================================================
+LABS:
+
+|CBC4 1WK|
+
+|CHEM6 1WK|
+
+|CALCIUM|
+|MAGNESIUM|
+|PO4|
+
+|LFT1WK|
+
+|INR(LAST 3)|
+
+=========================================================================
+MICRO:
+
+=========================================================================
+IMAGING/OTHER STUDIES:
+|IMAGING LAST 2 IN 3M|
+
+=========================================================================
+SURGICAL PATHOLOGY:
+
+=========================================================================
+ASSESSMENT & PLAN:
+
+
+
+
+
+
+
+
+
+
+---- F/U Appts in Next 6 months----
+|FUTURE APPOINTMENTS, NEXT 6 IN 6 MO|
